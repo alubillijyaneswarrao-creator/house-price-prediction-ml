@@ -1,4 +1,10 @@
 🏠 House Price Prediction using Machine Learning
+👤 Author
+Jyanesh Naidu
+GitHub: https://github.com/alubillijyaneswarrao-creator                              ⭐ If you find this project useful, give it a star!
+
+LinkedIn: https://linkedin.com/in/jyaneshnaidu
+
 📌 Project Overview
 This project focuses on predicting house prices using machine learning techniques.
  The goal is to build an end-to-end ML pipeline starting from data exploration to model evaluation, following industry-standard practices.
@@ -89,4 +95,5 @@ GitHub
 Alubilli Jyaneswar Rao
  Aspiring AI/ML Engineer
  Learning and building projects in public 🚀
+
 
