@@ -1,7 +1,12 @@
 🏠 House Price Prediction using Machine Learning
+
+
 👤 Author
 Jyanesh Naidu
+
+
 GitHub: https://github.com/alubillijyaneswarrao-creator                              ⭐ If you find this project useful, give it a star!
+
 
 LinkedIn: https://linkedin.com/in/jyaneshnaidu
 
@@ -95,5 +100,6 @@ GitHub
 Alubilli Jyaneswar Rao
  Aspiring AI/ML Engineer
  Learning and building projects in public 🚀
+
 
 
